@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  Web Developer: André Ruffert
+  Site: http://andreruffert.de
+  Twitter: andreruffert
+  Location: Stuttgart, Germany
 
 /* THANKS */
   Names (& URL):
